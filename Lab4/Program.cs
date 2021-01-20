@@ -31,6 +31,7 @@ namespace Lab4
                 Console.WriteLine(i);
                 i++;
             }
+           
         }
     }
 }

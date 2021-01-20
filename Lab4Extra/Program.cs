@@ -31,7 +31,7 @@ namespace Lab4Extra
                 i++;
             } while (i <= 20);
             
-
+            
 
         }
     }
